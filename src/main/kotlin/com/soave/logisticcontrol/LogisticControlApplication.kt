@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class LogisticControlApplication
 
 fun main(args: Array<String>) {
-	runApplication<LogisticControlApplication>(*args)
+    runApplication<LogisticControlApplication>(*args)
 }
